@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c90497a-5efa-4e7c-84d3-f01bde2e7b01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/notice/BoardApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/notice/controller/NoticeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/HhjApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/JPARunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/config/QuerydslConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/controller/InvestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/model/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/model/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/model/entity/CustomerEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/model/entity/ProductEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/model/vo/CustomerRes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/model/vo/JoinVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/model/vo/ResponseVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/model/vo/ResultVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/repository/CustomerRepositoryCustom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/repository/CustomerRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/repository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/invest/util/DateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/querydsl/com/invest/model/entity/QCustomerEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/querydsl/com/invest/model/entity/QProductEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/querydsl/com/invest/model/vo/QJoinVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/kakao/jpaTest/ProductRepositoryTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bootJarMainClassName" beforeDir="false" afterPath="$PROJECT_DIR$/build/bootJarMainClassName" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/HhjApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/JPARunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/config/QuerydslConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/controller/InvestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/entity/CustomerEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/entity/ProductEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/entity/QCustomerEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/entity/QProductEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/vo/CustomerRes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/vo/JoinVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/vo/QJoinVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/vo/ResponseVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/model/vo/ResultVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/repository/CustomerRepositoryCustom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/repository/CustomerRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/repository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/invest/util/DateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/com/invest/model/entity/QCustomerEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/com/invest/model/entity/QProductEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/generated/com/invest/model/vo/QJoinVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/generated/com/notice/model/vo/QJoinVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/HhjApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/BoardApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/JPARunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/JPARunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/config/QuerydslConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/config/QuerydslConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/controller/InvestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/controller/NoticeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/model/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/model/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/model/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/model/entity/CustomerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/model/entity/FileEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/model/entity/ProductEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/model/entity/NoticeEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/model/vo/CustomerRes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/model/vo/JoinVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/model/vo/NoticeResVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/model/vo/ResponseVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/model/vo/ResultDataVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/model/vo/ResultVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/model/vo/ResultVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/repository/CustomerRepositoryCustom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/repository/NoticeRepositoryCustom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/repository/CustomerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/repository/NoticeRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/repository/NoticeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/service/NoticeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/invest/util/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/notice/util/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1skgTsG8Xxk1qeCslGyLXZqA9BW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.notice.controller" />
+      <recent name="com.notice" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.NoticeControllerTest">
+    <configuration name="NoticeControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.notice.controller.NoticeControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'notice'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.NoticeControllerTest" />
+        <item itemvalue="Gradle.Tests in 'notice'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c90497a-5efa-4e7c-84d3-f01bde2e7b01" name="Default Changelist" comment="" />
+      <created>1621422020949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621422020949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1806" y="94" key="#Project_Structure" timestamp="1621422213463">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1806" y="94" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621422213463" />
+    <state x="2056" y="320" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1621422448787">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2056" y="320" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621422448787" />
+    <state x="2106" y="274" key="FileChooserDialogImpl" timestamp="1621423552064">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="274" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621423552064" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1621423363559">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621423363559" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1621423363559">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621423363559" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1621423363559">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621423363559" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1621423363559">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621423363559" />
+    <state x="1827" y="164" key="SettingsEditor" timestamp="1621423514977">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1827" y="164" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621423514977" />
+    <state x="2097" y="339" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1621422640102">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2097" y="339" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621422640102" />
+    <state x="1705" y="119" key="new project wizard" timestamp="1621423483878">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1705" y="119" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621423483878" />
+  </component>
+</project>

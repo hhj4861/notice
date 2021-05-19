@@ -1,0 +1,6 @@
+com/invest/model/entity/CustomerEntityTest.java
+ com.invest.model.entity.CustomerEntityTest
+com/invest/controller/InvestControllerTest.java
+ com.invest.controller.InvestControllerTest
+com/invest/model/entity/ProductEntityTest.java
+ com.invest.model.entity.ProductEntityTest

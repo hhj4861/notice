@@ -1,0 +1,36 @@
+server:
+   port: 9001
+
+spring:
+
+   servlet:
+      multipart:
+        file-size-threshold: 1MB
+        max-file-size: 10MB
+        max-request-size: 10MB
+   jpa:
+      database-platform: org.hibernate.dialect.SQLiteDialect
+      hibernate:
+         ddl-auto: update #변경된 스키마 적용
+         naming:
+            physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+         use-new-id-generator-mappings: false
+      properties:
+         hibernate:
+            use_sql_comments: true #디버싱이 용이하도록 SQL문 이외에 추가 정보 출력
+            format_sql: true #콘솔에 출력되는 JAP실행 쿼리를 가독성 있게
+            enable_lazy_load_no_trans: true #프록시 초기화
+            globally_quoted_identifiers: true #SQL 실행 시 인용부호로 테이블 컬럼 감쌈.
+
+   datasource:
+      driver-class-name: org.sqlite.JDBC
+      url: jdbc:sqlite:C:\\test\\test.db
+
+      
+logging:
+  file: 
+    name: C:\\test\\testLog.log
+  level: 
+    com.notice: debug
+    org.hibernate.SQL: debug
+    org.hibernate.type.descriptor.sql.BasicBinder: trace

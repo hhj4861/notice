@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>공지사항 - 목록</title>
+<link rel='stylesheet'
+	href='/webjars/bootstrap/4.5.0/css/bootstrap.min.css'>
+</head>
+<body>
+	<header th:insert="common/header.html"></header>
+	<div class="container">
+		<table class="table">
+			<thead class="thead-light">
+				<tr class="text-center">
+					<th scope="col">#</th>
+					<th scope="col">제목</th>
+					<th scope="col">내용</th>
+					<th scope="col">작성자</th>
+					<th scope="col">작성일</th>
+					<th scope="col">최종수정일</th>
+
+				</tr>
+			</thead>
+			<tbody>
+				<tr class="text-center" th:each="notice : ${noticeList}">
+					<th scope="row"><span th:text="${notice.id}"></span></th>
+					<td><a th:href="@{'/notice/' + ${notice.id}}"> <span
+							th:text="${notice.title}"></span>
+					</a></td>
+					<td><span th:text="${notice.contents}"></span></td>
+					<td><span th:text="${notice.author}"></span></td>
+					<td>
+						<!-- <span th:text="${#temporals.format(post.createdDate, 'yyyy-MM-dd HH:mm')}"></span> -->
+						<!-- <span th:text="${#temporals.createDate(post.createdDate,'yyyyMMdd HH:mm:ss')}"></span> -->
+						<span th:text="${notice.createdDate}"></span>
+					</td>
+
+					<td><span th:text="${notice.lastDate}"></span> <!-- <span th:text="${#temporals.createDate(post.lastDate,'yyyyMMdd')}"></span> -->
+					</td>
+
+				</tr>
+			</tbody>
+		</table>
+
+		<div class="col-12">
+			<ul class="pagination pagination justify-content-center">
+				<!-- <li class="page-item"><a class="page-link"
+					th:href="@{/?page=1}">처음</a></li> -->
+				<li class="page-item"><span th:each="pageNum : ${pageList}"
+					th:inline="text"> <a th:href="@{'/?page=' + ${pageNum}}">[[${pageNum}]]</a>
+				</span></li>
+			</ul>
+
+			<!-- <a class="page-link" th:href="@{/?page=1}" aria-label="Previous">
+				<span aria-hidden="true">처음</span> 
+			</a> -->
+
+
+		</div>
+
+		<div class="row">
+			<!-- <span th:each="pageNum : ${pageList}" th:inline="text"> <a
+				th:href="@{'/?page=' + ${pageNum}}">[[${pageNum}]]</a>
+			</span> -->
+			<div class="col-auto mr-auto"></div>
+			<div class="col-auto">
+				<a class="btn btn-primary" th:href="@{/post}" role="button">공지
+					추가</a>
+			</div>
+		</div>
+	</div>
+	<script src="/webjars/jquery/3.5.1/jquery.min.js"></script>
+	<script src="/webjars/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>
