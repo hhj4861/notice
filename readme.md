@@ -9,7 +9,7 @@ PORT : 9001
 - github소스를 다운로드
 - IDE(STS등)에서 gradle 프로젝트로 import
 - Spring Boot App Run 
-- SQL Lite 실행 후 github에서 다운로드 받은 test.db 위치 설정 (test DB 위치 : C:\\test\\test.db)
+- test.db 위치 설정 (github에서 다운로드 받은 test.db 위치 변경 => C:\\test\\test.db)
 - 웹 실행 (localhost://9001) 
 
 
