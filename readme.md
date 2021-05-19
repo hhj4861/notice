@@ -33,7 +33,7 @@ PORT : 9001
 4. 오류 발생 시 error.html 으로 처리함.
 5. junit 으로 TDD 작성 테스트 진행
 
-DB는 sqllite를 사용하였으며, 테이블은 2개(TB_BOARD, TB_FILE) 생성함.
+DB는 sqllite를 사용하였으며, 테이블은 2개(TB_NOTICE, TB_FILE) 생성함.
 
 JPA 사용 하였으며, UPDATE 및 다중조인은 QueryDsl 로 처리함.
 
@@ -44,7 +44,7 @@ JPA 사용 하였으며, UPDATE 및 다중조인은 QueryDsl 로 처리함.
 
 테이블은 다음과 같이 작성.
 
-* TB_BOARD
+* TB_NOTICE
 
 ID|TITLE|CREATED_DATE|AUTHOR|LAST_DATE|CONTETNS|FILE_ID
 ---|---|---|---|---|---|---|
