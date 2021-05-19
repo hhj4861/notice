@@ -7,7 +7,8 @@ PORT : 9001
 
 [실행방법] 
 - github소스를 다운로드
-- IDE(STS등)에서 gradle 프로젝트로 import
+- zip파일 다운로드 시 압축해제 
+- IDE(STS등)에서 gradle 프로젝트로 import(압축해제 한 폴더 선택 시 : notice-master\notice-master 선택)
 - Spring Boot App Run 
 - test.db 위치 설정 (github에서 다운로드 받은 test.db 위치 변경 => C:\\test\\test.db)
 - 웹 실행 (localhost://9001) 
