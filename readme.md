@@ -1,6 +1,9 @@
 환경 : 자바1.8 , Gradle , SQL Lite , Spring boot , JPA 
+
 IDE : STS4
+
 PORT : 9001
+
 
 [실행방법] 
 - github소스를 다운로드
